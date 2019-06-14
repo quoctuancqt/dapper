@@ -1,0 +1,12 @@
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\DapperRepositoryAndUnitOfWork.exe.config
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\DapperRepositoryAndUnitOfWork.exe
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\DapperRepositoryAndUnitOfWork.pdb
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\Dapper.dll
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\MicroOrm.Pocos.SqlGenerator.dll
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\Dapper.xml
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\obj\Debug\DapperRepositoryAndUnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\obj\Debug\DapperRepositoryAndUnitOfWork.exe
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\obj\Debug\DapperRepositoryAndUnitOfWork.pdb
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\Ninject.dll
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\bin\Debug\Ninject.xml
+D:\Projects\Temp\DapperDemo\DapperRepositoryAndUnitOfWork\obj\Debug\DapperRepositoryAndUnitOfWork.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\bin\Debug\DapperConsoleDemo.exe.config
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\bin\Debug\DapperConsoleDemo.exe
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\bin\Debug\DapperConsoleDemo.pdb
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\bin\Debug\Dapper.dll
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\bin\Debug\Dapper.xml
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\obj\Debug\DapperConsoleDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\obj\Debug\DapperConsoleDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\obj\Debug\DapperConsoleDemo.exe
+D:\Projects\Temp\DapperDemo\DapperConsoleDemo\obj\Debug\DapperConsoleDemo.pdb
